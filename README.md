@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=SINtyanneru)
+![](https://img.shields.io/twitter/follow/RUMISAN_SYTEM32?label=%E3%81%B5%E3%81%89%E3%82%8D%E3%83%BC&style=social)
+![](https://img.shields.io/youtube/channel/subscribers/UCiIEkxAL1kB31dkzMoG90Qg?style=social)
 
 <!--
 **SINtyanneru/SINtyanneru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
