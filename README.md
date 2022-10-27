@@ -12,12 +12,18 @@ I can do C#, PHP, JS, and C++!
 [わたしの鯖/My Server/Мой сервер](https://rumiserver.com)
 <BR><BR><BR><BR><BR>
 
+<section style="text-align: center;">
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SINtyanneru&theme=dracula)
+
 ![](https://github-readme-stats.vercel.app/api?username=SINtyanneru&count_private=true&show_icons=true&theme=dracula)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SINtyanneru&layout=compact&theme=dracula)
 
 ↑詰め込めるものを全て詰め込んだやつ
-___
+</section>
+
+____
 
 ![](https://komarev.com/ghpvc/?username=SINtyanneru)
 ![](https://img.shields.io/twitter/follow/RUMISAN_SYTEM32?label=%E3%81%B5%E3%81%89%E3%82%8D%E3%83%BC&style=social)
