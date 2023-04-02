@@ -9,8 +9,14 @@ I can do C#, PHP, JS, and C++!
 <BR>
 Я могу делать C#, PHP, JS и C++!
 <BR>
-[わたしの鯖/My Server/Мой сервер](https://rumiserver.com)
+わたしの鯖/My Server/Мой сервер<BR>
+https://rumiserver.com<BR>
+https://rumia.me<BR>
+https://まひろ.net<BR>
+<BR><BR><BR>
+[フォロワーさんによるわたしのいいところ](./LIKE.md)
 <BR><BR><BR><BR><BR>
+
 
 <section style="text-align: center;">
 
