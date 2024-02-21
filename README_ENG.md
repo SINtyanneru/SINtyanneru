@@ -5,21 +5,21 @@
 
 <IMG SRC="./ai.png" WIDTH="20%" ALT="藍ちゃん、これは私ではない" ALIGN="right">
 <P ALIGN="left">
-	るみさんだよ！
+	My name is "るみ"!
 	<TABLE BORDER="1">
 		<TR>
-			<TH>人種</TH>
-			<TD COLSPAN="2">日本人</TD>
+			<TH>Race</TH>
+			<TD COLSPAN="2">Japanese people</TD>
 		</TR>
 		<TR>
-			<TH>言語</TH>
-			<TD COLSPAN="2">日本語/るみ語</TD>
+			<TH>Language</TH>
+			<TD COLSPAN="2">Japanese/Language of Rumi</TD>
 		</TR>
 		<!--プログラミング言語-->
 		<TR>
-			<TH ROWSPAN="7">プログラミング言語</TH>
-			<TH>言語</TH>
-			<TH>どれぐらいできる？</TH>
+			<TH ROWSPAN="7">programming language</TH>
+			<TH>Language</TH>
+			<TH>How well can I do that?</TH>
 		</TR>
 		<TR>
 			<TD>C#</TD>
@@ -49,15 +49,15 @@
 </P>
 <P>
 	<BR>
-	わたしの鯖<BR>
-	<A HREF="https://rumiserver.com">るみ鯖</A><BR>
-	<A HREF="https://rumia.me">るみあ</A><BR>
-	<A HREF="https://まひろ.net">まひろ</A><BR>
-	<A HREF="https://ai-chan-fan-site.me">藍ちゃん</A><BR>
+	My Server<BR>
+	<A HREF="https://rumiserver.com">RumiServer</A><BR>
+	<A HREF="https://rumia.me">Rūmia</A><BR>
+	<A HREF="https://まひろ.net">OyamaMahiro</A><BR>
+	<A HREF="https://ai-chan-fan-site.me">Ai-Chan</A><BR>
 
 
 ```
-更新履歴
-	2024年：自分の持っているリポジトリを全てプライベートリポジトリにしました！！！！！
+Update History
+	Year 2024：I have made all the repositories I have private repositories!!!
 ```
 </P>
