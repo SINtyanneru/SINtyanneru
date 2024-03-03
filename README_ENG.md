@@ -41,10 +41,6 @@
 			<TD>VB</TD>
 			<TD>10%</TD>
 		</TR>
-		<TR>
-			<TD>C#</TD>
-			<TD>50%</TD>
-		</TR>
 	</TABLE>
 </P>
 <P>
