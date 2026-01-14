@@ -11,10 +11,10 @@
 <P>
 	<BR>
 	わたしの鯖<BR>
-	<A HREF="https://rumiserver.com">るみ鯖</A><BR>
-	<A HREF="https://rumia.me">るみあ</A><BR>
-	<A HREF="https://まひろ.net">まひろ</A><BR>
-	<A HREF="https://ai-chan-fan-site.me">藍ちゃん</A><BR>
+	<A HREF="https://rumiserver.com/">るみ鯖</A><BR>
+	<A HREF="https://rumia.me/">るみあ</A><BR>
+	<A HREF="https://緒山まひろ.net/">緒山まひろ</A><BR>
+	<A HREF="https://シャミ子.net/">シャミ子</A><BR>
 
 
 ```
